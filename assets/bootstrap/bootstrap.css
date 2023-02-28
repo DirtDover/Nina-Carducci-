@@ -582,6 +582,7 @@ progress {
   max-width: 100%;
   height: fit-content;
   max-height: 319.90px;
+  margin-left: 80px;
 }
 
 .img-thumbnail {
@@ -6246,6 +6247,8 @@ fieldset:disabled .btn {
   border: 1px solid rgba(0, 0, 0, 0.2);
   border-radius: 0.3rem;
   outline: 0;
+  justify-content: center;
+  align-items: center;
 }
 
 .modal-backdrop {
@@ -6290,7 +6293,10 @@ fieldset:disabled .btn {
 .modal-body {
   position: relative;
   flex: 1 1 auto;
+  display: flex;
   padding: 1rem;
+  justify-content: center;
+  align-items: center;
 }
 
 .modal-footer {

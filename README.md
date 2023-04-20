@@ -1,18 +1,19 @@
-# Optimisation et Debug
+# Nina Carducci
 
 ---
 
-Sixième projet de ma formation de Développeur Web, projet introductif au Backend.  
-Apprentissage du language NodeJS, d'Express et de MongoDB.  
-Le Front-End nous était fourni.  
-Nous devions dévelopez la partie Backend de l'application web.
+Quatrième projet de ma formation de Développeur Web, projet portant sur le SEO, le référencement, l'optimisation et le debug du code.
 
-J'ai appri grâce à ce projet à :
+Tout le code nous était fourni.  
+Nous devions optimiser, debuguer et améliorer le SEO et le référencement.
 
-- Créer un serveur web simple avec Express.
-- Créer une API REST avec Node, Express et MongoDB.
-- Mettre en place un système d'authentification sur une application Express.
-- Gérer des fichiers utilisateur sur une application Express.
-- Mettre en œuvre des opérations CRUD de manière sécurisée.
+J'ai appri grâce à ce projet :
 
-**Lien du site** : [Mon vieux Grimoire](https://dirtdover.github.io/Mon-vieux-Grimoire/)
+- L'utilisation de l'outil d'audit Lighthouse.
+- L'utilisation de Rich Snippet.
+- L'utilisation de l'extension Wave.
+- L’utilisation des balises meta et de Schema.org.
+- Le débogage d'un site web grâce aux Chrome DevTools.
+- La rédaction d'un cahier de recette pour tester un site.
+
+**Lien du site** : [Nina Carducci](https://dirtdover.github.io/Nina-Carducci-/)
